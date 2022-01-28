@@ -3,7 +3,7 @@
 
 import requests
 
-token = '72bf1ffb99b7fd6b51af68f6bff767b73c16c84c50f6d05280b6c1550fcb739ab6c9ec6712d5fb7e85b6e'
+token = ''
 version = 5.81
 
 data = {
